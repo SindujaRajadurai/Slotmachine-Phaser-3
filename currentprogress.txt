@@ -1,0 +1,24 @@
+tomo:
+
+correct and wrong answer  -- > progress bar movement and further 5 questions
+timer glow -> along with vibration
+No lifelines popup
+home, leaderboard and soundIcon  -- change the icons
+
+white bar on idle buttons
+selection animation on current level - progress bar
+
+load the font file and add text
+howtoplay
+splashscreen
+loading screen
+UI alignment fixes
+
+
+SFX
+
+Before 6.15
+collect all the sfxs and load them
+
+
+

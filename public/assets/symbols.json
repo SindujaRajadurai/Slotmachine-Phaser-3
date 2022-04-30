@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "symbols.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 961,
+				"h": 306
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Banana.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 349,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 349,
+						"h": 304
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 349,
+						"h": 304
+					}
+				},
+				{
+					"filename": "Blackberry.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 349,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 0,
+						"w": 322,
+						"h": 303
+					},
+					"frame": {
+						"x": 352,
+						"y": 1,
+						"w": 322,
+						"h": 303
+					}
+				},
+				{
+					"filename": "Cherry.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 349,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 9,
+						"w": 284,
+						"h": 283
+					},
+					"frame": {
+						"x": 676,
+						"y": 1,
+						"w": 284,
+						"h": 283
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d5e839af5d81a8dd990018a355d9c80f:1aa6ddb59672c30c0bb3c3e4119edc62:d295ed7153fe372207e34d26d380974a$"
+	}
+}
